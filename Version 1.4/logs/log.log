@@ -1,0 +1,20 @@
+INFO:root:Logging started.
+INFO:root:Found data folder
+INFO:root:Verifying files inside it.
+INFO:root:Found settings file.
+INFO:root:Now verifying it.
+INFO:root:Found path
+INFO:root:Now verifying path.
+INFO:root:Path exists.
+INFO:root:Settings file is working.
+INFO:root:Path: C:\Users\User\Videos
+INFO:root:Projects file found
+INFO:root:Now checking it.
+INFO:root:[ imagesearch ] : path exists. Checking next project if any.
+INFO:root:[ New discord python bot ] : path exists. Checking next project if any.
+INFO:root:[ fun-with-python-classes ] : path exists. Checking next project if any.
+INFO:root:Project file is working fine.
+INFO:root:Startup complete
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): discord.com:443
+DEBUG:urllib3.connectionpool:https://discord.com:443 "POST /api/webhooks/874346590234615848/xBYVKyNxziJzrsnhzY1zW5OCgQR_0vmNEhQ8SKsuHDKZSbW3vwZVILw2NgcJoEyq_J3D?wait=True HTTP/1.1" 200 None
+DEBUG:discord_webhook.webhook:[1/1] Webhook executed

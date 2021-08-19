@@ -1,0 +1,16 @@
+INFO:root:Logging started.
+INFO:root:Found data folder
+INFO:root:Verifying files inside it.
+INFO:root:Found settings file.
+INFO:root:Now verifying it.
+INFO:root:Found path
+INFO:root:Now verifying path.
+INFO:root:Path exists.
+INFO:root:Settings file is working.
+INFO:root:Path: C:\Users\User\Videos
+INFO:root:Projects file found
+INFO:root:Now checking it.
+INFO:root:[ h ] : path exists. Checking next project if any.
+INFO:root:Project file is working fine.
+INFO:root:Startup complete
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): discord.com:443

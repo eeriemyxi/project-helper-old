@@ -1,0 +1,20 @@
+{
+    "imagesearch": {
+        "path": "C:\\Users\\User\\Videos\\imagesearch",
+        "files": [
+            "index.js"
+        ]
+    },
+    "New discord python bot": {
+        "path": "C:\\Users\\User\\Videos\\New discord python bot",
+        "files": [
+            "main.py"
+        ]
+    },
+    "fun-with-python-classes": {
+        "path": "C:\\Users\\User\\Videos\\fun-with-python-classes",
+        "files": [
+            "main.py"
+        ]
+    }
+}
